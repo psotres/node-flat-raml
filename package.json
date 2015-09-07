@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "q": "1.4.1",
-    "raml-object-to-raml": "0.0.4",
+    "raml-object-to-raml": "~0.0.5",
     "raml-parser": "0.8.11"
   },
   "devDependencies": {
